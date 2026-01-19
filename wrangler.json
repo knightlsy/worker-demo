@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "worker-demo",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9eafbfe5-0968-4115-a158-ee963f15ed7c",
+			"database_name": "worker-demo-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
